@@ -8,8 +8,8 @@ This repo tracks my DSA problem-solving journey for placements 🚀
 
 | Day | Topic                | Problems Solved                                        |
 |-----|----------------------|--------------------------------------------------------|
-| 01  | Bitwise + Binary     | Single Number, Sqrt(x)                                 |
-| 02  | Binary Search        | Peak Element, Mountain Peak                            |
+| 01  | Bitwise              | Single Number                                          |
+| 02  | Binary Search        | Sqrt(x) , Mountain Peak                                |
 | 03  | Binary Search (Hard) | Book Allocation, Painters Partition                    |
 
 ---
