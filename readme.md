@@ -19,10 +19,9 @@ This repo tracks my DSA problem-solving journey for placements 🚀
 ```bash
 DSA-Leetcode/
 ├── Day01_Bitwise_Binary/
-│   ├── single_number.cpp
-│   └── sqrt_x.cpp
+│   └── single_number.cpp
 ├── Day02_BinarySearch/
-│   ├── peak_element.cpp
+│   ├── Sqrt(x).cpp
 │   └── mountain_array.cpp
 ├── Day03_BinarySearch_Hard/
 │   ├── book_allocation.cpp
